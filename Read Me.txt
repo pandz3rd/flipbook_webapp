@@ -1,0 +1,8 @@
+
+
+How to Run
+========================================
+1. Double click 'index.html'
+
+or go to source path:
+/flipcomic/FlipBook/index.html
